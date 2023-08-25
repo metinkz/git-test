@@ -1,3 +1,3 @@
 # git-test
 testing stuff
-i am learning gsdasdit
+i am learning git
